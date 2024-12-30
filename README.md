@@ -13,24 +13,19 @@
 
 如果没有IOS设备，可以使用虚拟卡进行订阅，也是一种可靠的方案，但需要一定的开卡费用。
 
-目前有很多渠道可以开通虚拟卡，包括Nobepay、Dupay、Onekey、Fomepay等。这里主要介绍使用Fomepay的订阅方式。
+目前有很多渠道可以开通虚拟卡，包括Nobepay、Dupay、Onekey、WildCard等。这里主要介绍使用WildCard的订阅方式。
 
-### 使用Fomepay订阅ChatGPT 4.0
+### 使用WildCard订阅ChatGPT 4.0
 
-#### 第一步：注册Fomepay账号
+#### 第一步：注册WildCard账号
 
-[点击这个入口，注册账号](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[点击这个入口，注册账号](https://bit.ly/bewildcard)
 
-按流程图依次注册账号，选择支持GPT-plus的卡段，然后申请卡。
-
-![image](https://github.com/fvversatile/GPT4/assets/169968982/54db9761-155a-49ca-85d3-fd6a6703f014)
+按流程依次注册账号，选择支持GPT-plus的卡段，然后申请卡。
 
 #### 第二步：查看卡资料
 
 前面申请到的卡会出现在首页：我的卡片＞＞＞更多操作＞＞＞“CVC安全码”，就可以直接查看完整卡资料。
-
-![image](https://github.com/fvversatile/GPT4/assets/169968982/5e735613-148c-41d3-90f9-eec45b7f65da)
-
 
 
 #### 第三步：升级到Plus
