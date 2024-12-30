@@ -32,8 +32,6 @@
 
 完成上面步骤后，登录你的ChatGPT账号，点击“upgrade to chatgpt plus”。
 
-![image](https://github.com/fvversatile/GPT4/assets/169968982/552d9de4-2ecf-4706-a91b-c48dec611c89)
-
 
 将申请到的虚拟卡信息填入即可。
 
