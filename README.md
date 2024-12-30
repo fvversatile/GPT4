@@ -27,6 +27,8 @@
 
 前面申请到的卡会出现在首页：我的卡片＞＞＞更多操作＞＞＞“CVC安全码”，就可以直接查看完整卡资料。
 
+![image](https://github.com/user-attachments/assets/47015b88-fd56-4c71-858f-ae79d979125f)
+
 
 #### 第三步：升级到Plus
 
@@ -34,8 +36,6 @@
 
 
 将申请到的虚拟卡信息填入即可。
-
-![image](https://github.com/fvversatile/GPT4/assets/169968982/4f2267d7-2291-4727-995f-8514251330b7)
 
 
 点击订阅，就完成了。
